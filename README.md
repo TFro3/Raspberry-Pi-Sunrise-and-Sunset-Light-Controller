@@ -12,7 +12,7 @@ Requirements:
 - 'gpiozero' library (for controlling GPIO pins)
 - Internet connectivity to fetch sunset/sunrise times via an API
 
-
+Using a map or website such as https://www.latlong.net/ input your city to get your relative coordinates. Locate the section of code below in the program and edit it with your own coordinates.
 ```python3
 # Configuration variables
 latitude = 'YOUR LATITUDE'
