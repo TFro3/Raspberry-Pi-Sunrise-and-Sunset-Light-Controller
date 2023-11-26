@@ -9,7 +9,8 @@ Features:
 Requirements: 
 - Raspberry Pi
 - Python 3
-- 'gpiozero' library (for controlling GPIO pins)
+- 'gpiozero' library
+- 'requests' library
 - Internet connectivity to fetch sunset/sunrise times via an API
 - 5v Relay
 - 14/2 Romex/House Wiring
