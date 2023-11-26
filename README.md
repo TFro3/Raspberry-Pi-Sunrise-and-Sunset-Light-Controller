@@ -24,6 +24,13 @@ Using a map or website such as https://www.latlong.net/ input your city to get y
 latitude = 'YOUR LATITUDE'
 longitude = 'YOUR LONGITUDE'
 ```
+Example:
+```python3
+# Configuration variables
+latitude = '36.162663'
+longitude = '-86.781601'
+```
+
 You can also create an offset time to trigger the relays before, at, or after the sunrise/sunset time. 
 
 ```python3
