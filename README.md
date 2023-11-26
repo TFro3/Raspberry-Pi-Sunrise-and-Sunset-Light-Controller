@@ -8,10 +8,12 @@ Features:
 
 Requirements: 
 - Raspberry Pi
-- 5v Relay
 - Python 3
 - 'gpiozero' library (for controlling GPIO pins)
 - Internet connectivity to fetch sunset/sunrise times via an API
+- 5v Relay
+- 14/2 Romex/House Wiring
+- Standard 15amp outlet (unless wiring the circuit inline)
 
 To install:
 - Run ```https://github.com/TFro3/Raspberry-Pi-Sunrise-and-Sunset-Light-Controller.git``` OR copy the code and create a new python file and paste it in.
