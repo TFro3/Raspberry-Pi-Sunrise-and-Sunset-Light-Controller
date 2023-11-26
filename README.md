@@ -17,7 +17,7 @@ Requirements:
 - Standard 15amp outlet (unless wiring the circuit inline)
 
 To install:
-- Run ```https://github.com/TFro3/Raspberry-Pi-Sunrise-and-Sunset-Light-Controller.git``` OR copy the code and create a new python file and paste it in.
+- Run ```git clone https://github.com/TFro3/Raspberry-Pi-Sunrise-and-Sunset-Light-Controller.git``` OR copy the code and create a new python file and paste it in.
 - ```pip install gpiozero requests``` if you don't have gpiozero or requests already
 - Then run the program using ```python3 LightController.py``` OR ```python3 'YourFileName'.py```
 
