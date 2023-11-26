@@ -24,7 +24,8 @@ Using a map or website such as https://www.latlong.net/ input your city to get y
 latitude = 'YOUR LATITUDE'
 longitude = 'YOUR LONGITUDE'
 ```
-Example:
+Example: 
+- Nashville, TN has the latitude & longitude values of 36.162663 and -86.781601 so that would be setup as shown below.
 ```python3
 # Configuration variables
 latitude = '36.162663'
