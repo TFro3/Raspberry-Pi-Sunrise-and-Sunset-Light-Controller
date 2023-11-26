@@ -4,8 +4,8 @@ from datetime import datetime, timedelta, timezone
 import time
 
 # Configuration variables
-latitude = '36.162663'
-longitude = '-86.781601'
+latitude = 'YOUR LATITUDE'
+longitude = 'YOUR LONGITUDE'
 relay_pin = 14  # Replace with your GPIO pin number
 
 # Offset in minutes for sunrise and sunset
